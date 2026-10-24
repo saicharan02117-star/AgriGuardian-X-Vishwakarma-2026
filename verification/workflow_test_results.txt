@@ -1,0 +1,4 @@
+Executed locally 2026-10-24 using Python unittest.
+Seven synthetic workflow tests passed: low-resolution rejection, blur rejection, quality pass, recapture, human review, approval gate, approved manual action.
+Ran 7 tests in 0.000s — OK.
+These tests do NOT validate the actual crop disease model or physical hardware.
