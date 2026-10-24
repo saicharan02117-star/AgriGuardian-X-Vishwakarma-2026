@@ -1,0 +1,2 @@
+Simplified three longitudinal-rail beam FE model; 24 Euler-Bernoulli elements per rail; six nominal wheel support locations; 3 kg static center load equally shared; E=69 GPa; I=7.872000000e-09 m4; max vertical displacement=0.03429 mm.
+This is NOT a 3D solid-element full-chassis FEA; no physical load or displacement measurements.
