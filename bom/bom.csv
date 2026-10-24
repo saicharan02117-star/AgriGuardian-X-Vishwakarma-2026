@@ -1,0 +1,13 @@
+Part,Specification,Quantity,Unit_INR,Extended_INR,Status,Source
+6WD chassis,metal/acrylic reference chassis,1,1100,1100,estimate,planning
+DC geared motors,6V-12V rated to verify,6,200,1200,estimate,planning
+Wheels,6WD set,6,100,600,estimate,planning
+ESP32-S3-CAM + OV5640,board-specific ribbon pinout,1,3780,3780,estimate,planning
+NodeMCU controller,exact board version to verify,1,350,350,estimate,planning
+L298N H bridge,driver module,2,200,400,estimate,planning
+Battery and charger,chemistry voltage capacity to verify,1,1350,1350,estimate,planning
+Buck regulator fuse switch,power protection set,1,480,480,estimate,planning
+Wires connectors,assorted,1,450,450,estimate,planning
+Camera mount standoffs,mechanical set,1,450,450,estimate,planning
+LED ring,mounting included,1,185,185,estimate,planning
+Soil sensors,optional trial,2,195,390,estimate,planning
